@@ -1,4 +1,4 @@
-Bogdan dd your first name
+Bogdan
 Zaporizha
 Ukraine
 Meta frontend dev
